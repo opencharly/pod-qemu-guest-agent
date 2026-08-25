@@ -1,3 +1,4 @@
+version: 2026.232.0520
 qemu-guest-agent:
     candy:
         version: 2026.149.1200
