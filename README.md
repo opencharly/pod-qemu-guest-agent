@@ -37,7 +37,7 @@ my-vm-image:
 or applied to a VM guest at deploy time:
 
 ```bash
-charly fleet add vm:<name> qemu-guest-agent
+charly deploy add vm:<name> qemu-guest-agent
 ```
 
 Drop per-application scripts into `/etc/qemu/fsfreeze-hook.d/` to run them on
